@@ -13,7 +13,7 @@ A `ScrollView`-like component that:
 ## Installation
 
 ```
-$ npm install @monterosa/react-native-parallax-scroll --save
+$ npm install xiaoleiooo/react-native-parallax-scroll --save
 ```
 
 ## Demo
